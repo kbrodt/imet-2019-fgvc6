@@ -1,0 +1,8 @@
+tqdm
+pandas
+matplotlib
+gluoncv
+gluoncv2
+mxnet-cu101mkl
+numpy
+scikit-learn
