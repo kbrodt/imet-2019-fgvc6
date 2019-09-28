@@ -3,7 +3,7 @@
 This is an another one approach to solve the competition from kaggle
 [iMet Collection 2019 - FGVC6](https://www.kaggle.com/c/imet-2019-fgvc6).
 
-47th place over 446 (silver medal) with 0.636 F2 score (top 1 -- 0.672).
+47th place out of 446 (silver medal) with 0.636 F2 score (top 1 -- 0.672).
 
 ### Prerequisites
 
